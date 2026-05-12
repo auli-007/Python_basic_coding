@@ -102,6 +102,4 @@ The goal of this repository is to improve my Python programming skills and build
 
 ---
 
-# Author
-
-Auli Ul Hasan
+# Author ~Auli Ul Hasan
